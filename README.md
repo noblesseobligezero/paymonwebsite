@@ -1,2 +1,1 @@
-# paymonwebsite
-Lab 2
+Demo repository for a website
